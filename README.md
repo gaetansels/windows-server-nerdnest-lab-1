@@ -14,7 +14,7 @@ Virtual machines created in VMware:
 - Windows Server (Domain Controller)
 - Windows 11 Client
 
-  
+Important remark: make snapshots to easily start over or correct mistakes. 
 
 ## Network Architecture
 
