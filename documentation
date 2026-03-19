@@ -1,3 +1,35 @@
 ## network setup 
 
-First we start with the pfsense set up and syspreping it. 
+PRETEXT : 
+
+First, we start with the pfSense download it, import it in VMware and do the setup. 
+The setup means mostly sysprepping it for future projects.  
+
+The lab environment uses a host-only network in VMware.　－－＞ very controlled and only connected through PFsense
+
+DHCP is disabled in this environment.  
+Therefore, all devices must be configured manually with a static IP address.
+
+In the future, this topic will be viewed more when the focus is on firewalls. 
+
+LAN subnet:
+
+192.168.153.0/24
+
+This means all machines must use an IP address within the range:
+
+192.168.153.1 – 192.168.153.254
+
+START PROJECT :
+
+
+### Device addressing
+
+The following addressing scheme is used:
+
+- pfSense (gateway): 192.168.153.1
+- Windows Server: 192.168.153.220 
+- Windows Client: 192.168.153.10
+
+Servers will have higher IP starting from 200+ and clients 10+ range to keep things simple. 
+
