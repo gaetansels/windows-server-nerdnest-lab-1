@@ -10,8 +10,6 @@ The lab environment uses a host-only network in VMware.　－－＞ very control
 DHCP is disabled in this environment.  
 Therefore, all devices must be configured manually with a static IP address.
 
-In the future, this topic will be viewed more when the focus is on firewalls. 
-
 LAN subnet:
 
 192.168.153.0/24
