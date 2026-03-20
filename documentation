@@ -35,4 +35,4 @@ Servers will have higher IP starting from 200+ and clients 10+ range to keep thi
 ### NETWORKING tasks
 
 windows-run --> ncpa.cpl --> 
-![Network setup](https://github.com/gaetansels/windows-server-nerdnest-lab-1/blob/bf63b88160d5227a9f319e21cb190733ab441125/windows_lab1_p1.png)
+![Network setup](windows_lab1_p1.png)
