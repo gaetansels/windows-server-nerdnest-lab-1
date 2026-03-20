@@ -37,3 +37,6 @@ Servers will have higher IP starting from 200+ and clients 10+ range to keep thi
 windows-run --> ncpa.cpl --> Ethernet0 --> properties --> (TCP/IPv4)
 
 ![Network setup](windows_lab1_p1.png)
+
+
+input new IP : 192.168.153.220  for ip adress 255.255.255 subnet etc  
