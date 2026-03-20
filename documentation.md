@@ -39,4 +39,11 @@ windows-run --> ncpa.cpl --> Ethernet0 --> properties --> (TCP/IPv4)
 ![Network setup](windows_lab1_p1.png)
 
 
-input new IP : 192.168.153.220  for ip adress 255.255.255 subnet etc  
+In the IPv4 settings, configure a static IP address for the server:
+
+- IP address: 192.168.153.220
+- Subnet mask: 255.255.255.0
+- Default gateway: 192.168.153.1
+- Preferred DNS server: 192.168.153.1
+
+This ensures the server has a fixed address within the network, which is required for services like Active Directory and DNS.
