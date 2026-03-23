@@ -66,4 +66,4 @@ Once you have promoted the server, you cannot change the name unless you demote 
   
 To promote the server to a Domain Controller:  
 
-- Manage  add roles and features 
+- Manage -> add roles and features 
