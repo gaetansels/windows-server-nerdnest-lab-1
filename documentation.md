@@ -59,5 +59,5 @@ Once you have promoted the server, you cannot change the name unless you demote 
   
 ![Something](win_lab1_p2.png)
 
-- h
+- correct time zone : Local Server --> Time Zone --> Change time zone...
   
