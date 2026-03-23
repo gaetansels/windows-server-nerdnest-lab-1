@@ -50,4 +50,7 @@ This ensures the server has a fixed address within the network, which is require
 A static IP address is required for the server to ensure it remains consistently reachable within the network. This is essential for services like Active Directory and DNS, which rely on a fixed address to function correctly.
 
 
-## post deployment , name and date config
+## post-deployment, name and date config
+
+First we give the server a simple hostname because if you are going to do changes and have to reuse the name a lot it helps. 
+Once you have promoted the server, you cannot change the name unless you demote the domain controller. 
