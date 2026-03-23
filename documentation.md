@@ -56,6 +56,7 @@ First we give the server a simple hostname because if you are going to do change
 Once you have promoted the server, you cannot change the name unless you demote the domain controller. 
 
 - changing the name : Local Server --> Computer name --> change
+  
 https://github.com/gaetansels/windows-server-nerdnest-lab-1/blob/eec887b01dee02fcb217aeefa01a84d3267f2734/win_lab1_p2.png
 
 
