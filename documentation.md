@@ -52,12 +52,13 @@ A static IP address is required for the server to ensure it remains consistently
 
 ## post-deployment, name and date config
 
-First we give the server a simple hostname because if you are going to do changes and have to reuse the name a lot it helps. 
+First, we give the server a simple hostname because if you are going to make changes and have to reuse the name a lot, it helps. 
 Once you have promoted the server, you cannot change the name unless you demote the domain controller. 
 
-- changing the name : Local Server --> Computer name --> change
+- changing the name: Local Server --> Computer name --> change
   
 ![Something](win_lab1_p2.png)
 
-- correct time zone : Local Server --> Time Zone --> Change time zone...
+- correct time zone: Local Server --> Time Zone --> Change time zone...
+- Keep up to date : ( same as normal Windows) 
   
