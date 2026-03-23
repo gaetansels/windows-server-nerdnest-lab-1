@@ -54,3 +54,5 @@ A static IP address is required for the server to ensure it remains consistently
 
 First we give the server a simple hostname because if you are going to do changes and have to reuse the name a lot it helps. 
 Once you have promoted the server, you cannot change the name unless you demote the domain controller. 
+
+- changing the name : Local Server --> Computer name --> change
