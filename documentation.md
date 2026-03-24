@@ -73,3 +73,6 @@ To promote the server to a Domain Controller:
 There is also the option to make the DC a DNS server; this is essential because if only your own DNS server has the authority over your namespace. 
 Even if you don't manually select this in the Add Roles and Features step, it gets done automatically because of this.  
 
+next ... --> install; installing is not enough to transform the standalone server into a domain controller. 
+Before than configuration settings need to be done correctly.   
+
