@@ -69,3 +69,7 @@ To promote the server to a Domain Controller:
 - Manage --> add roles and features
 
 ![something](win_lab1_p3.png)
+
+There is also the option to make the DC a DNS server; this is essential because if only your own DNS server has the authority over your namespace. 
+Even if you don't manually select this in the Add Roles and Features step, it gets done automatically because of this.  
+
