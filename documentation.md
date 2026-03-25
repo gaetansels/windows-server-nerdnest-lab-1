@@ -77,3 +77,7 @@ next ... --> install; installing is not enough to transform the standalone serve
 Before than configuration settings need to be done correctly.   
 
 ![something](win_lab1_p4.png)
+
+![something](win_lab1_p5.png)
+
+We are promoting a standalone server to a DC , so we are creating a new tree in a new forest.
