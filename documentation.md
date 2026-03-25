@@ -86,3 +86,6 @@ Because of that, we are creating a new forest (and its first domain).
 Follow the best practices until the check, where you might encounter an error, like in the example below : 
 
 ![something](win_lab1_p6.png)
+
+.test isn't used on the internet, which might cause issues, but we use it because this is a lab, and to avoid issues. 
+So this domain can't be accessed from the outside, which was the point of a lab. 
