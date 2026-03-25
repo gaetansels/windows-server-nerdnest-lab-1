@@ -89,3 +89,4 @@ Follow the best practices until the check, where you might encounter an error, l
 
 .test isn't used on the internet, which might cause issues, but we use it because this is a lab, and to avoid issues. 
 So this domain can't be accessed from the outside, which was the point of a lab. 
+
