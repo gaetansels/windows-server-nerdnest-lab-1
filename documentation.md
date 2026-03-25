@@ -82,3 +82,7 @@ Before than configuration settings need to be done correctly.
 
 We are promoting a standalone server to a DC. 
 Because of that, we are creating a new forest (and its first domain).
+
+Follow the best practices until the check, where you might encounter an error, like in the example below : 
+
+![something](win_lab1_p6.png)
