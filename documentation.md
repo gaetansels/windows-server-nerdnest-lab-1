@@ -103,4 +103,10 @@ Default admin needs to have a very strong password and it is not best practices 
 - a new admin for daily use
 - default user with minimum access 
 
+first lets upgrade the password : 
+
+![something](win_lab1_p7.png)
+
+
 ![something]()
+ 
