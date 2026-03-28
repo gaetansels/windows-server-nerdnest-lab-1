@@ -103,10 +103,11 @@ Default admin needs to have a very strong password and it is not best practices 
 - a new admin for daily use
 - default user with minimum access 
 
-first lets upgrade the password : 
+first lets upgrade the password : on Administrator --> RMK (right mouse click) --> Reset Password 
 
 ![something](win_lab1_p7.png)
 
+Next look into making new account : 
 
 ![something]()
  
