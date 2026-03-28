@@ -91,8 +91,9 @@ Follow the best practices until the check, where you might encounter an error, l
 So this domain can't be accessed from the outside, which was the point of a lab. 
 
 ## Users 
-below are 2 methods to get to computer management where you can creat new users or add them to groups etc ... 
+below are 2 methods to get to Active Directory Users and Computers where you can creat new users or add them to groups etc ... 
 
-1) windows key + x --> here you can directly select Computer Manager
-2) in windows run the command : lusrmgr.msc
+1) tools --> active Directory Users and Computers
+2) Run: dsa.msc
+   
 ![something]()
