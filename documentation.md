@@ -107,7 +107,7 @@ first lets upgrade the password : on Administrator --> RMK (right mouse click) -
 
 ![something](win_lab1_p7.png)
 
-Next look into making new account : 
+Next look into making new accounts : 
 
 RMK (right mouse click) --> New -->  User --> next ...
 
