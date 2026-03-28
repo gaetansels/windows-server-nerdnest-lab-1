@@ -112,4 +112,8 @@ Next look into making new accounts :
 RMK (right mouse click) --> New -->  User --> next ...
 
 ![something](win_lab1_p8.png)
+
+The final step is to put the New Admin into the administrator group : 
+
+![something]()
  
