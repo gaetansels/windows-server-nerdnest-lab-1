@@ -95,5 +95,12 @@ below are 2 methods to get to Active Directory Users and Computers where you can
 
 1) tools --> active Directory Users and Computers
 2) Run: dsa.msc
-   
+
+Note: On a Domain Controller, local user management is replaced by Active Directory. 
+
+Default admin needs to have a very strong password and it is not best practices to use it for daily tasks so we will : 
+- Upgrade password of admin 
+- a new admin for daily use
+- default user with minimum access 
+
 ![something]()
