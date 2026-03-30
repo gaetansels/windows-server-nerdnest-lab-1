@@ -115,7 +115,7 @@ RMK (right mouse click) --> New -->  User --> next ...
 
 The final step is to put the New Admin into the administrator group : 
 
-RMK (right mouse click) on the account --> Properties --> Member Of --> Add... --> check name to make sure it is correct --> OK 
+RMK (right mouse click) on the account --> Properties --> Member Of --> Add... --> check name to make sure it is correct --> OK --> apply 
 
 ![something](win_lab1_p9.png)
  
