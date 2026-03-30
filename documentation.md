@@ -120,3 +120,6 @@ RMK (right mouse click) on the account --> Properties --> Member Of --> Add... -
 ![something](win_lab1_p9.png)
 
 ## DNS
+
+Up next, we will implement basic company policy, which is to use a DNS server to block damaging content and unwelcome websites. 
+For this puprose we will be using family shield. 
