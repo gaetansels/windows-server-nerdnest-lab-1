@@ -103,7 +103,7 @@ Default admin needs to have a very strong password and it is not best practices 
 - a new admin for daily use
 - default user with minimum access 
 
-first lets upgrade the password : on Administrator --> RMK (right mouse click) --> Reset Password 
+First, let's upgrade the password: on Administrator --> RMK (right mouse click) --> Reset Password 
 
 ![something](win_lab1_p7.png)
 
@@ -122,7 +122,7 @@ RMK (right mouse click) on the account --> Properties --> Member Of --> Add... -
 ## DNS
 
 Up next, we will implement basic company policy, which is to use a DNS server to block damaging content and unwelcome websites. 
-For this puprose we will be using family shield. 
+For this purpose we will be using family shield. 
 
 First, we find the addresses to use the DNS of Family Shield. 
 
@@ -133,7 +133,7 @@ Then : Tools --> DNS --> RMK (Right Mouse Klick) on DC1 --> properties
 There is a DNS of the PFsense mentioned earlier, which we will delete. 
 Because even if it is the lowest position and priority in case the family shield DNS fails, the connection will happen with the PFsense, and the restriction will be bypassed. 
 
-In properties : edit --> delete PFsense IP then add the IP of Family Shield 
+In properties: edit --> delete PFsense IP then add the IP of Family Shield 
 
 ![something](win_lab1_p11.png)
 
