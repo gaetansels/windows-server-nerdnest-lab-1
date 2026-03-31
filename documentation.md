@@ -139,13 +139,15 @@ In properties: edit --> delete PFsense IP then add the IP of Family Shield
 
 To test if our setup is correct, we will ping the Google DNS servers (8.8.8.8 and 8.8.4.4). 
 
-Tools --> DNS --> New Host ( A or AAAA) ... --> Add Host and remove the PTR record 
+Tools --> DNS --> New Host ( A or AAAA) ... --> Add Host and remove the PTR record because it is used for reverse DNS (IP--> name). 
 
 ![something](win_lab1_p15.png)
 
 Repeat for both 
 
 ![something](win_lab1_p16.png)
+
+![something](win_lab1_p17.png)
 
 ## Client in Domain 
 
