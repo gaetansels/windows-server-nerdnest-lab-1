@@ -123,3 +123,9 @@ RMK (right mouse click) on the account --> Properties --> Member Of --> Add... -
 
 Up next, we will implement basic company policy, which is to use a DNS server to block damaging content and unwelcome websites. 
 For this puprose we will be using family shield. 
+
+First, we find the addresses to use the DNS of Family Shield. 
+
+![something](win_lab1_p10.png) 
+
+Then : Tools --> DNS --> RMK (Right Mouse Klick) on DC1 --> properties 
