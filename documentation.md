@@ -141,6 +141,11 @@ To test if our setup is correct, we will ping the Google DNS servers (8.8.8.8 an
 
 Tools --> DNS --> New Host ( A or AAAA) ...
 
+![something](win_lab1_p15.png)
+
+Repeat for both 
+
+![something](win_lab1_p16.png)
 
 ## Client in Domain 
 
