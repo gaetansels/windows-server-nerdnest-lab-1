@@ -139,6 +139,7 @@ In properties: edit --> delete PFsense IP then add the IP of Family Shield
 
 To test if our setup is correct, we will ping the Google DNS servers (8.8.8.8 and 8.8.4.4). 
 
+Tools --> DNS --> New Host ( A or AAAA) ...
 
 
 ## Client in Domain 
