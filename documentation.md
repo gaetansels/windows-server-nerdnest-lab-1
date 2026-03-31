@@ -129,3 +129,10 @@ First, we find the addresses to use the DNS of Family Shield.
 ![something](win_lab1_p10.png) 
 
 Then : Tools --> DNS --> RMK (Right Mouse Klick) on DC1 --> properties 
+
+There is a DNS of the PFsense mentioned earlier, which we will delete. 
+Because even if it is the lowest position and priority in case the family shield DNS fails, the connection will happen with the PFsense, and the restriction will be bypassed. 
+
+In properties : edit --> delete PFsense IP then add the IP of Family Shield 
+
+![something](win_lab1_p11.png)
