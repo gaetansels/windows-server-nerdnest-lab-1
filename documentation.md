@@ -145,3 +145,13 @@ First of all because we are working with a pfsense we have to just like before w
 So we change the DHCP to the domain IP because the pfsense acts like a router here and we want to route the client to the IP of the server.
 
 ![something](win_lab1_p12.png)
+
+With the setup complete, on the client PC : 
+
+system --> info --> Domein or workgroup --> (wijzigen/ configure) --> domain : nerdnest.test (domain name)
+
+![something](win_lab1_p13.png) 
+
+If you are successful, you will get the notification below, and you must restart the client. 
+
+![something](win_lab1_p14.png) 
