@@ -139,6 +139,8 @@ In properties : edit --> delete PFsense IP then add the IP of Family Shield
 
 ## Client in Domain 
 
-To add the client computer to the domain : 
 
-![something]()
+Before adding the client computer to the domain, we have to do some prep work. 
+First of all because we are working with a pfsense we have to just like before with the DNS make sure that 
+
+![something](win_lab1_p12.png)
