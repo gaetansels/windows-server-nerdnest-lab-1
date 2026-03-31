@@ -149,6 +149,8 @@ Repeat for both
 
 ![something](win_lab1_p17.png)
 
+We created an A record (name → IP) and use ping to verify that the DNS server correctly resolves the name to the IP address.
+
 ## Client in Domain 
 
 
