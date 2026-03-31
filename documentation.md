@@ -136,3 +136,5 @@ Because even if it is the lowest position and priority in case the family shield
 In properties : edit --> delete PFsense IP then add the IP of Family Shield 
 
 ![something](win_lab1_p11.png)
+
+## Client in Domain 
