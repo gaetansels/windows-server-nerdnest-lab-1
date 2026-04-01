@@ -169,3 +169,5 @@ system --> info --> Domein or workgroup --> (wijzigen/ configure) --> domain : n
 If you are successful, you will get the notification below, and you must restart the client. 
 
 ![something](win_lab1_p14.png) 
+
+# AD Structure 
