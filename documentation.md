@@ -201,8 +201,11 @@ Here will use a PowerShell script to import our users from LibreOffice.
 First of all, we will set up the LibreOffice files as seen in the screenshot. 
 
 In the "Active Directory Users and Computers "  view --> advanced features. 
+RMK --> Properties --> Attribute Editor --> DistinguisedName 
 
-![something]() 
+This is done to get the file path. 
 
+![something](win_lab1_p21.png) 
 
+This will be done for all the OU's 
 
