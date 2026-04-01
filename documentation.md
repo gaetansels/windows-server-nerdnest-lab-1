@@ -173,4 +173,6 @@ If you are successful, you will get the notification below, and you must restart
 # AD Structure 
 
 In the next lab, we will work with policies. 
-To implement those more precisely we will use OU (Organisational Units) 
+To implement those more precisely, we will use OU (Organisational Units) 
+
+Tools --> Active Directory Users and Computers 
