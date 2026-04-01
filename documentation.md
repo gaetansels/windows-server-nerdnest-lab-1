@@ -176,3 +176,7 @@ In the next lab, we will work with policies.
 To implement those more precisely, we will use OU (Organisational Units) 
 
 Tools --> Active Directory Users and Computers 
+
+On the nerdnest domain: RMK (right mouse click) --> New --> Organisational Units 
+
+![something](win_lab1_p18.png) 
