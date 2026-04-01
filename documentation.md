@@ -194,3 +194,5 @@ View --> Advanded Features --> RMK --> Properties --> object
 ![something](win_lab1_p20.png) 
 
 To exit, disable advanced features in View. 
+
+Next, we will use a PowerShell script to import our users from LibreOffice. 
