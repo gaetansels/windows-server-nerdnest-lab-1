@@ -213,4 +213,26 @@ Next, we will open PowerShell ISE as admin.
 
 The script : 
 
+Import-Module ActiveDirectory
 
+# Pad naar het CSV-bestand
+$csvPath = "C:\user-import\users2.csv"
+
+# Gebruikers toevoegen
+Import-Csv -Path $csvPath | ForEach-Object {
+    $firstName = $_.FirstName.Trim()
+    $lastName = $_.LastName.Trim()
+    $username = "$firstName.$lastName".ToLower()
+
+    $securePass = ConvertTo-SecureString $_.Password -AsPlainText -Force
+    New-ADUser `
+        -Name "$firstName $lastName" `
+        -GivenName $firstName `
+        -Surname $lastName `
+        -SamAccountName $username `
+        -UserPrincipalName "$username@snwb.test" `
+        -AccountPassword $securePass `
+        -Path $_.OU `
+        -Enabled $true `
+        -ChangePasswordAtLogon $true
+}
