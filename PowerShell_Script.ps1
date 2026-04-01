@@ -1,4 +1,4 @@
-PS C:\WINDOWS\system32> Import-Module ActiveDirectory
+Import-Module ActiveDirectory
 
 # Pad naar het CSV-bestand
 $csvPath = "C:\user-import\OUallusers.csv"
