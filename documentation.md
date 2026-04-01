@@ -207,5 +207,5 @@ This is done to get the file path.
 
 ![something](win_lab1_p21.png) 
 
-This will be done for all the OU's 
+This will be done for all the OU's in the same tab. 
 
