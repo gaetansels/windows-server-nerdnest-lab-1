@@ -211,3 +211,10 @@ This will be done for all the OU's in the same tab.
 
 Next, we will open PowerShell ISE as admin. 
 
+Make sure the filepath is correct, in C: I made another folder to have a shorter filepath. 
+As for the CSV save it via manually adding .csv and selecting CSV text, also Field delimiter in the last screen is very important ! 
+Tab needs to be , 
+
+![something](win_lab1_p22.png) 
+
+![something](win_lab1_p23.png) 
