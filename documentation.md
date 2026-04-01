@@ -195,4 +195,14 @@ View --> Advanded Features --> RMK --> Properties --> object
 
 To exit, disable advanced features in View. 
 
-Next, we will use a PowerShell script to import our users from LibreOffice. 
+## Adding users with Powershell 
+Here will use a PowerShell script to import our users from LibreOffice. 
+
+First of all, we will set up the LibreOffice files as seen in the screenshot. 
+
+In the "Active Directory Users and Computers "  view --> advanced features. 
+
+![something]() 
+
+
+
