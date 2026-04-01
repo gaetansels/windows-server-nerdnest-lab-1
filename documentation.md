@@ -180,3 +180,9 @@ Tools --> Active Directory Users and Computers
 On the nerdnest domain: RMK (right mouse click) --> New --> Organisational Units 
 
 ![something](win_lab1_p18.png) 
+
+In OU we can also make another OU, same process select where you want to make a sub : 
+
+OU RMK --> New --> Organisational Unit 
+
+![something](win_lab1_p19.png) 
