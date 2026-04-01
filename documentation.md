@@ -209,3 +209,8 @@ This is done to get the file path.
 
 This will be done for all the OU's in the same tab. 
 
+Next, we will open PowerShell ISE as admin. 
+
+The script : 
+
+
