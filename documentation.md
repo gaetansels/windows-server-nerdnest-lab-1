@@ -186,3 +186,11 @@ In OU we can also make another OU, same process select where you want to make a 
 OU RMK --> New --> Organisational Unit 
 
 ![something](win_lab1_p19.png) 
+
+When creating we will keep the box "Protect container from accidental deletion" but if you want to remove or renake the OU you go to the main menue (File Action View Help) : 
+
+View --> Advanded Features --> RMK --> Properties --> object 
+
+![something](win_lab1_p20.png) 
+
+To exit, disable advanced features in View. 
