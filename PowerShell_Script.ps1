@@ -1,7 +1,7 @@
 Import-Module ActiveDirectory
 
 # Pad naar het CSV-bestand
-$csvPath = "C:\user-import\OUallusers.csv"
+$csvPath = "C:\user-import\Userlist_csv"
 
 # Gebruikers toevoegen
 Import-Csv -Path $csvPath | ForEach-Object {
