@@ -43,8 +43,8 @@ In the IPv4 settings, configure a static IP address for the server:
 
 - IP address: 192.168.153.220
 - Subnet mask: 255.255.255.0
-- Default gateway: 192.168.153.1
-- Preferred DNS server: 192.168.153.1
+- Default gateway: 192.168.153.254
+- Preferred DNS server: 192.168.153.254
 
 This ensures the server has a fixed address within the network, which is required for services like Active Directory and DNS.
 A static IP address is required for the server to ensure it remains consistently reachable within the network. This is essential for services like Active Directory and DNS, which rely on a fixed address to function correctly.
