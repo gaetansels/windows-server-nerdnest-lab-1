@@ -25,7 +25,7 @@ START PROJECT :
 
 The following addressing scheme is used:
 
-- pfSense (gateway): 192.168.153.1
+- pfSense (gateway): 192.168.153.254
 - Windows Server: 192.168.153.220 
 - Windows Client: 192.168.153.10
 
