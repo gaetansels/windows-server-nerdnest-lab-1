@@ -24,7 +24,7 @@ Important remark: make snapshots to easily start over or correct mistakes.
 
 ## Domain
 
-Domain name: gsNerdNest.test
+Domain name: nerdnest.test
 
 ---
 *Note: This lab is part of the Graduaat Systeem- en Netwerkbeheer (Course: Windows Server Intro) at Howest Brugge.
