@@ -1,6 +1,6 @@
 ## network setup 
 
-PRETEXT : 
+CONTEXT : 
 
 First, we start with the pfSense download it, import it in VMware and do the setup. 
 The setup means mostly sysprepping it for future projects.  
